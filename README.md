@@ -69,7 +69,7 @@ To do:
 - Feature to be added 2
 
 ## Contact
-Created by [@Hariram2001](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@Hariram2001](https://github.com/Hariram2001) - feel free to contact me!
 
 
 <!-- Optional -->
