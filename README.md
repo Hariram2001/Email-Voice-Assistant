@@ -11,7 +11,6 @@
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
@@ -27,10 +26,14 @@
 - Natural Language Processing
 
 
-## Features
-The features of this project are:
-- We can provide specific recipient list with their Email ID and name.
-- We can send via voice so time can be consumed.
+## Existing System
+- Email servers accept, forward, deliver, and store messages. Neither their users nor their computers are required to be online simultaneously; they need to connect, typically to a mail server or a webmail interface to send or receive messages or download it. The users send text messages only by typing or forwarding.
+
+
+## Proposed System
+- The proposed model make use of SMTP library and packages like pyttx3, pyaudio, speech recognition and microphone. 
+- User has to give voice command to the email voice assistant. He has to denote the specific recipient (Email ID) which he already implemented in the assistant. The assistant then asks about the subject and body of the email. After giving the content of email, the email voice assistant sends the message to that recipient.
+- This model involves Artificial Intelligence, Machine Learning techniques.
 
 
 ## Screenshots
@@ -63,7 +66,7 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _complete_ .
 
 
 ## Room for Improvement
