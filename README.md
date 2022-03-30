@@ -1,6 +1,5 @@
-# Project Name
+# Project Title
 > Dynamic AI Based Email Voice Assistant for Web Services
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [Abstract](#abstract)
@@ -23,16 +22,15 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing
 
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+The features of this project are:
+- We can provide specific recipient list with their Email ID and name.
+- We can send via voice so time can be consumed.
 
 
 ## Screenshots
@@ -41,9 +39,20 @@ List the ready features here:
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+HARDWARE REQUIREMENTS:
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+  - System	            -          Core i3, 2.4 GHz
+  - Hard Disk	         -      160 GB of Disk Space
+  - Main Memory        -  500 MB
+  - Cache Memory       -  512 KB 
+  - Monitor	           -    14/15 inches Colour
+
+SOFTWARE REQUIREMENTS:
+
+ - Operating System	      -         MacOS, Windows 7, 8,9,10
+ - Programming Language    -    Python
+ - Coding Platform          -           PyCharm
+ - Libraries	               -              smtplib, python.
 
 
 ## Usage
