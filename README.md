@@ -44,6 +44,9 @@
 
      ![Program](https://user-images.githubusercontent.com/93965734/161086735-7e3e9439-cac7-4b9c-8ca6-2fc26f6982e9.png)
 
+- Demonstration screenshot:
+
+     ![Output](https://user-images.githubusercontent.com/93965734/161093913-0dc2580f-8d95-4e72-be3e-b0b786e11cb6.png)
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
