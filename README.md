@@ -1,5 +1,5 @@
 # Project Title
-> Dynamic AI Based Email Voice Assistant for Web Services
+> Email Voice Assistant
 
 ## Table of Contents
 * [Abstract](#abstract)
