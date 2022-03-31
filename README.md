@@ -8,7 +8,6 @@
 * [Proposed System](#proposed-system)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Demonstration video](#demo-video)
 * [Contact](#contact)
@@ -56,13 +55,6 @@ SOFTWARE REQUIREMENTS:
  - Programming Language    -    Python
  - Coding Platform          -           PyCharm
  - Libraries	               -              smtplib, python.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
 
 
 ## Project Status
