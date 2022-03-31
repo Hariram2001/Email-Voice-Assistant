@@ -35,6 +35,23 @@
 - This model involves Artificial Intelligence, Machine Learning techniques.
 
 
+## Setup
+HARDWARE REQUIREMENTS:
+
+  - System	            -          Core i3, 2.4 GHz
+  - Hard Disk	         -      160 GB of Disk Space
+  - Main Memory        -  500 MB
+  - Cache Memory       -  512 KB 
+  - Monitor	           -    14/15 inches Colour
+
+SOFTWARE REQUIREMENTS:
+
+ - Operating System	      -         MacOS, Windows 7, 8,9,10
+ - Programming Language    -    Python
+ - Coding Platform          -           PyCharm
+ - Libraries	               -              smtplib, python.
+ 
+ 
 ## Screenshots
 - Program images:
 
@@ -51,29 +68,13 @@
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Setup
-HARDWARE REQUIREMENTS:
-
-  - System	            -          Core i3, 2.4 GHz
-  - Hard Disk	         -      160 GB of Disk Space
-  - Main Memory        -  500 MB
-  - Cache Memory       -  512 KB 
-  - Monitor	           -    14/15 inches Colour
-
-SOFTWARE REQUIREMENTS:
-
- - Operating System	      -         MacOS, Windows 7, 8,9,10
- - Programming Language    -    Python
- - Coding Platform          -           PyCharm
- - Libraries	               -              smtplib, python.
+## Demonstration video
+> Demonstration video : [_here_](https://youtu.be/qXgg4mdmNSg).
 
 
 ## Project Status
 Project is: _complete_ .
 
-
-## Demonstration video
-> Demonstration video : [_here_](https://youtu.be/qXgg4mdmNSg).
 
 ## Contact
 Created by [@Hariram2001](https://github.com/Hariram2001) - feel free to contact me!
