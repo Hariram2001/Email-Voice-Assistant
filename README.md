@@ -71,10 +71,6 @@ SOFTWARE REQUIREMENTS:
 > Demonstration video : [_here_](https://youtu.be/qXgg4mdmNSg).
 
 
-## Project Status
-Project is: _complete_ .
-
-
 ## Contact
 Created by [@Hariram2001](https://github.com/Hariram2001) - feel free to contact me!
 
