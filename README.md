@@ -9,7 +9,7 @@
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Project Status](#project-status)
-* [Demonstration video](#demo-video)
+* [Demonstration video](#demonstration-video)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
