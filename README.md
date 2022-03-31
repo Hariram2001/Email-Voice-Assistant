@@ -6,9 +6,8 @@
 * [Technologies Used](#technologies-used)
 * [Existing System](#existing-system)
 * [Proposed System](#proposed-system)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Project Status](#project-status)
+* [Screenshots](#screenshots)
 * [Demonstration video](#demonstration-video)
 * [Contact](#contact)
 <!-- * [License](#license) -->
